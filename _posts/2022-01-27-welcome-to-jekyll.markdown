@@ -7,6 +7,7 @@ categories: jekyll update
 # Umut's Hobbies #
 1- Playing Drums
 2- Working on cars
+3- Reading
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
